@@ -28,3 +28,4 @@ Integrating InterWeb into your project is straightforward. Simply import the pac
 ### Krypto Module:
 The Krypto subpackage is responsible for string generation, encryption and decryption, hashing, and secure token generation. It provides essential cryptographic functionalities to ensure data security within your application.
 
+For documentation on the `krypto` subpackage, please refer to [Krypto doc ](./krypto/doc.md).
